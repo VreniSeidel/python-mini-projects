@@ -18,6 +18,6 @@ The final result will be printed on the screen as:
 Hello Python World
 ```
 
-## *Author Name*
+## *Vreni Seidel*
 
-[Ravi Chavare](https://github.com/chavarera)
+[Ravi Chavare](https://github.com/VreniSeidel)
