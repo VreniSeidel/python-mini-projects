@@ -20,4 +20,4 @@ Hello Python World
 
 ## *Vreni Seidel*
 
-[Ravi Chavare](https://github.com/VreniSeidel)
+[Vreni Seidel](https://github.com/VreniSeidel)
